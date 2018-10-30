@@ -1,0 +1,8 @@
+Rough Draft for sequence comparison with Needleman-Wunsch algorithm
+Usage: compareSequence([array of integer to compare],[array of integer to compare])
+
+Current Issue: Tend to minimize errors
+
+TODO:
+1) User interface to read data file line by line directly.
+2) Modification to Needleman-Wunsch to allow calculating edit distance instead of optimal alignment (which tends to minimize error).
